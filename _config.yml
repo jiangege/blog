@@ -103,5 +103,5 @@ theme: paper
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: https://github.com/jiangege/blog
+  repo: https://github.com/jiangege/jiangege.github.io
   branch: master
